@@ -5,3 +5,4 @@ tags:
 ---
 # what life will be like?
 ## thats a joke
+这个是为什么呢？
